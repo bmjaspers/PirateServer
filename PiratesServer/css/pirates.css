@@ -1,0 +1,78 @@
+/* need this for ng-cloak to work since angularjs is included at the end of body instead of in head */
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+/* color scheme generated from: http://colorschemedesigner.com/csd-3.5/ */
+body {
+    background-color: #BF7630;
+    margin: 0;
+    padding: 0;
+}
+
+#app-container {
+    text-align: center;
+    margin: 0;
+}
+
+#app-container div + div {
+    margin: 20px auto;
+}
+
+#header-container {
+    background-color: #A65100;
+    padding: 10px;
+}
+
+#question-container {
+    display: inline-block;
+}
+#input-container * {
+    vertical-align: middle;
+}
+
+#input-container input {
+    background-color: #A65100;
+    border: 2px ridge black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#input-container button {
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid #A65100;
+    padding: 10px;
+    background-color: #F0FC00;
+}
+
+#input-container button:hover {
+     background-color: #F7FE72;
+}
+
+#input-container button:disabled {
+     background-color: #F0FC00;
+}
+
+#output-container ul {
+    list-style-type: none;
+    width: 25%;
+    margin: auto;
+    padding: 0;
+}
+
+#output-container li {
+    border-radius: 5px;
+    background-color: #F0FC00;
+    padding: 3px;
+    margin: 0;
+    border: 0;
+}
+
+#output-container li + li {
+    margin-top: 5px;
+}
+
+.error {
+    background-color: #F00 !important;
+}

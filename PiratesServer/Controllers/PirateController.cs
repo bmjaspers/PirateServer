@@ -11,7 +11,7 @@ namespace PiratesServer.Controllers
     public class PirateController : ApiController
     {
         [HttpGet]
-        [Route("api/pirates/{numberOfPirates}")]
+        [Route("api/pirate/{numberOfPirates}")]
         public IHttpActionResult Get(int numberOfPirates)
         {
             if (numberOfPirates < 2)

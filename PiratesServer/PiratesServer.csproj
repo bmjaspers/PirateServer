@@ -72,7 +72,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\pirates.css" />
     <Content Include="Global.asax" />
+    <Content Include="img\spinner.gif" />
+    <Content Include="index.html" />
+    <Content Include="js\app.js" />
+    <Content Include="js\localStorageService.js" />
+    <Content Include="js\treasureCalculatorController.js" />
+    <Content Include="js\treasureCalculatorService.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
