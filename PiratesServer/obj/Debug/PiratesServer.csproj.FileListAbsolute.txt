@@ -1,0 +1,14 @@
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\PiratesServer.dll.config
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\PiratesServer.dll
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\PiratesServer.pdb
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\Newtonsoft.Json.dll
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\System.Web.Http.dll
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\Newtonsoft.Json.xml
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\System.Web.Http.xml
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\obj\Debug\PiratesServer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\obj\Debug\PiratesServer.dll
+C:\Users\Benjamin\Documents\Projects\PiratesServer\PiratesServer\obj\Debug\PiratesServer.pdb
